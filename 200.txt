@@ -1,0 +1,1 @@
+xContadordecaracteres.com es un contador automático decaracteres y palabras en un texto. Solo colocque el cursor dentro de la caja de textos y comienze a escribir y el contador de caracteres comenzara
